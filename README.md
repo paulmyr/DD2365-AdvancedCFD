@@ -1,4 +1,4 @@
-# DD2365_Advanced-CFD
+# DD2365-AdvancedCFD
 
 Based on following template sources:
     - Johan Hoffman [[https://github.com/johanhoffman/DD2365_VT25][repo]]
