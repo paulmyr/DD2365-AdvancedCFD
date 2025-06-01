@@ -1,0 +1,352 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global/global}
+    \entry{Alnaes2015}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=bf7a353fbef7db9234fa7c3176f015af}{%
+           family={Alnæs},
+           familyi={A\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d2014c8d244be1e1d67861018bc17648}{%
+           family={Blechta},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6c258c7873d4d947fdafc20e9f8b910a}{%
+           family={Hake},
+           familyi={H\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=93c7987801e2f12f655da7e798588925}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={August},
+           giveni={A\bibinitperiod}}}%
+        {{hash=acfb5790be522fbaba375492805d6cc9}{%
+           family={Kehlet},
+           familyi={K\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bae2791f700c5805db2f0fda7977a949}{%
+           family={Logg},
+           familyi={L\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0740bcf48754b8fa2cd3549a1d73461}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3f93744d1c4fd58652ea7e5ea5d0f80a}{%
+           family={Ring},
+           familyi={R\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fd9b078969e262e2b3456fa16701b5ce}{%
+           family={Rognes},
+           familyi={R\bibinitperiod},
+           given={Marie\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=997effee24e95b11152025bbad8e00ad}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Garth\bibnamedelima N},
+           giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {University Library Heidelberg}%
+      }
+      \strng{namehash}{7bfb6fe88e536450c7db6bba2d74609f}
+      \strng{fullhash}{e451c49be27941e9209ea36cf62b08f7}
+      \strng{fullhashraw}{e451c49be27941e9209ea36cf62b08f7}
+      \strng{bibnamehash}{7bfb6fe88e536450c7db6bba2d74609f}
+      \strng{authorbibnamehash}{7bfb6fe88e536450c7db6bba2d74609f}
+      \strng{authornamehash}{7bfb6fe88e536450c7db6bba2d74609f}
+      \strng{authorfullhash}{e451c49be27941e9209ea36cf62b08f7}
+      \strng{authorfullhashraw}{e451c49be27941e9209ea36cf62b08f7}
+      \field{labelalpha}{Aln+15}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{<p>Archive of Numerical Software}
+      \field{title}{The FEniCS Project Version 1.5}
+      \field{volume}{Vol 3}
+      \field{year}{2015}
+      \field{pages}{<strong>Starting Point and Frequency: </strong>Year: 2013</p>}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.11588/ANS.2015.100.20553
+      \endverb
+    \endentry
+    \entry{FEMColab2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=dcd0b0bbe94f0adc6fe33afd8da70142}{%
+           family={Ballarin},
+           familyi={B\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{fullhash}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{fullhashraw}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{bibnamehash}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{authorbibnamehash}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{authornamehash}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{authorfullhash}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \strng{authorfullhashraw}{dcd0b0bbe94f0adc6fe33afd8da70142}
+      \field{labelalpha}{Bal21}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://fem-on-colab.github.io/}
+      \field{note}{Accessed: 2025-05-31}
+      \field{title}{FEM on Colab}
+      \field{year}{2021}
+    \endentry
+    \entry{DeSilva1996}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=b1aef0ac2ce265fc9f1f501d4a10eaf5}{%
+           family={De\bibnamedelima Silva},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={I.P.D.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f34ba9553a425e94d54d56c31fda2fd8}{%
+           family={Fernando},
+           familyi={F\bibinitperiod},
+           given={H.J.S.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9f015e4b4d65bc634dffe5e3016604d7}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=aac4cf11c91a6405c3bd91cbab11291b}{%
+           family={Hebert},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{d1b80d10345bf3b1afc6d890edc82e7e}
+      \strng{fullhash}{3fb9513e8b330fde94483626a250c6c4}
+      \strng{fullhashraw}{3fb9513e8b330fde94483626a250c6c4}
+      \strng{bibnamehash}{d1b80d10345bf3b1afc6d890edc82e7e}
+      \strng{authorbibnamehash}{d1b80d10345bf3b1afc6d890edc82e7e}
+      \strng{authornamehash}{d1b80d10345bf3b1afc6d890edc82e7e}
+      \strng{authorfullhash}{3fb9513e8b330fde94483626a250c6c4}
+      \strng{authorfullhashraw}{3fb9513e8b330fde94483626a250c6c4}
+      \field{labelalpha}{De +96}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0012-821X}
+      \field{journaltitle}{Earth and Planetary Science Letters}
+      \field{month}{9}
+      \field{number}{1–4}
+      \field{title}{Evolution of Kelvin-Helmholtz billows in nature and laboratory}
+      \field{volume}{143}
+      \field{year}{1996}
+      \field{pages}{217\bibrangedash 231}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/0012-821x(96)00129-x
+      \endverb
+    \endentry
+    \entry{Colab2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhashraw}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhashraw}{8b36e9207c24c76e6719268e49201d94}
+      \field{labelalpha}{Goo25}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://colab.research.google.com/}
+      \field{month}{5}
+      \field{note}{Accessed: 2025-05}
+      \field{title}{Google Colaboratory}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://colab.research.google.com/
+      \endverb
+      \verb{url}
+      \verb https://colab.research.google.com/
+      \endverb
+    \endentry
+    \entry{Helmholtz1868}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=33e5c6a7d7668d40e04a0d38de4105b3}{%
+           family={Helmholtz},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa UK Limited}%
+      }
+      \strng{namehash}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{fullhash}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{fullhashraw}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{bibnamehash}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{authorbibnamehash}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{authornamehash}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{authorfullhash}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \strng{authorfullhashraw}{33e5c6a7d7668d40e04a0d38de4105b3}
+      \field{labelalpha}{Hel68}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1941-5990}
+      \field{journaltitle}{The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science}
+      \field{month}{11}
+      \field{number}{244}
+      \field{title}{XLIII. On discontinuous movements of fluids}
+      \field{volume}{36}
+      \field{year}{1868}
+      \field{pages}{337\bibrangedash 346}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/14786446808640073
+      \endverb
+    \endentry
+    \entry{Hoffman2021a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5e400475d93b2129a22d71cd83e11c3a}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIP Publishing}%
+      }
+      \strng{namehash}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{fullhash}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{fullhashraw}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{bibnamehash}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{authorbibnamehash}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{authornamehash}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{authorfullhash}{5e400475d93b2129a22d71cd83e11c3a}
+      \strng{authorfullhashraw}{5e400475d93b2129a22d71cd83e11c3a}
+      \field{labelalpha}{Hof21}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1089-7666}
+      \field{journaltitle}{Physics of Fluids}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Energy stability analysis of turbulent incompressible flow based on the triple decomposition of the velocity gradient tensor}
+      \field{volume}{33}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1063/5.0060584
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1063/5.0060584
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1063/5.0060584
+      \endverb
+    \endentry
+    \entry{Keylock2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=224ef62ddfd945500eb7caa9c31e0ef9}{%
+           family={Keylock},
+           familyi={K\bibinitperiod},
+           given={Christopher\bibnamedelima James},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{fullhash}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{fullhashraw}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{bibnamehash}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{authorbibnamehash}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{authornamehash}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{authorfullhash}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \strng{authorfullhashraw}{224ef62ddfd945500eb7caa9c31e0ef9}
+      \field{labelalpha}{Key18}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Fluid Mechanics}
+      \field{title}{The Schur decomposition of the velocity gradient tensor for turbulent flows}
+      \field{volume}{848}
+      \field{year}{2018}
+      \field{pages}{876\bibrangedash 905}
+      \range{pages}{30}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:125969962
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:125969962
+      \endverb
+    \endentry
+    \entry{Lehrenfeld2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3d56c5ca95586df92316d85a699cee8a}{%
+           family={Lehrenfeld},
+           familyi={L\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{fullhash}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{fullhashraw}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{bibnamehash}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{authorbibnamehash}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{authornamehash}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{authorfullhash}{3d56c5ca95586df92316d85a699cee8a}
+      \strng{authorfullhashraw}{3d56c5ca95586df92316d85a699cee8a}
+      \field{labelalpha}{Leh24}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://ngsolve.org/showcases/kh-benchmark}
+      \field{note}{Accessed: 2025-05-31}
+      \field{title}{Kelvin-Helmholtz instability : Benchmark computations}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
